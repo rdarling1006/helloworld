@@ -12,3 +12,5 @@ As Kanye West said:
 > the present is our past.
 
 Stinky stinky stinky stinky 
+def divide (x,y): 
+    return x/y
